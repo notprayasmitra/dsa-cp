@@ -1,7 +1,14 @@
+// ARITHMETIC OPERATORS IN C++
+
 #include <bits/stdc++.h>
 using namespace std;
 
 int main() {
+
+    // ===============================
+	// BASIC OPERATORS
+    // ===============================
+
 	int a = 2 * 3; 		// multiplication operator
 	int b = 3 / 2; 		// division operator
 	float c = 3 / 2; 	// in C++17 even if the variable is of the float data type, if the
@@ -10,6 +17,10 @@ int main() {
 
 	int e = 2 + 3; // addition operator
 	int f = 2 - 3; // subtraction operator
+
+    // ===============================
+	// MODULO OPERATOR
+    // ===============================
 
 	int g = 25 % 7; // modulus operator gives the remainder
 

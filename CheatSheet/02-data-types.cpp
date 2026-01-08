@@ -1,3 +1,5 @@
+// DATA TYPES IN C++
+
 #include <bits/stdc++.h>
 // The <bits/stdc++.h> header file contains a lot of the mostly used header files in C++
 // Though this header file is not universally accepted since it is a GCC convention, hence
@@ -10,6 +12,10 @@ int main() {
 	// long int, long long int (abbr. ll) are used to create integer data types with
 	// larger values
 	// string data type can be used to create a variable to hold a string
+
+    // ===============================
+	// BASIC DATA TYPES
+    // ===============================
 
 	int n = 10; // Here a variable named 'num' is created of the integer data type
 	char c = 'a';
@@ -27,6 +33,10 @@ int main() {
 
 	// In C++, 0 is considered false, and all the other values (ex: -123, 123, 444),
 	// considered true
+
+    // ===============================
+	// OTHER DATA TYPES
+    // ===============================
 
 	string s = "pizza";
 	long int nm = 12345;
