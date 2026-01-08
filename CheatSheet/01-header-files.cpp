@@ -11,5 +11,7 @@ int main() {
 	std::cout << "Hello World!" << std::endl;
 	std::cout << sqrt(4); // This function here requires the <math.h> header file
 
+	// :: is the scope resolution operator
+
 	return 0;
 }
