@@ -1,0 +1,10 @@
+NOTE: The extension of the file saved in (~/.config/sublime-text/Packages/User/), should end in .sublime-build for it to be recognized as a build tool in Sublime Text.
+
+{
+	"cmd": [
+		"mkdir -p builds && g++ -std=c++17 \"$file_name\" -o builds/$file_base_name && timeout 4s builds/$file_base_name < inputf.in > outputf.in"
+	],
+	"selector": "source.c++",
+	"shell": true,
+	"working_dir": "$file_path"
+}
