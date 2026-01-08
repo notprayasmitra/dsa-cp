@@ -1,4 +1,8 @@
 #include <bits/stdc++.h>
+// The <bits/stdc++.h> header file contains a lot of the mostly used header files in C++
+// Though this header file is not universally accepted since it is a GCC convention, hence
+// this header file works only with the GCC/G++ compiler
+
 using namespace std;
 
 int main() {
