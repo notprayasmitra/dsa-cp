@@ -1,0 +1,8 @@
+{
+    "cmd": [
+        "mkdir -p builds && /opt/local/bin/g++-mp-13 -std=c++17 \"$file_name\" -o builds/$file_base_name && perl -e 'alarm shift; exec @ARGV' 4 builds/$file_base_name < inputf.in > outputf.in"
+    ],
+    "selector": "source.c++",
+    "shell": true,
+    "working_dir": "$file_path"
+}
