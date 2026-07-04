@@ -1,0 +1,16 @@
+LSP-Clangd
+
+{
+    "clients": {
+        "clangd": {
+            "enabled": true,
+            "initializationOptions": {
+                "fallbackFlags": [
+                    "-std=c++17",
+                    "-I/opt/local/include/gcc13/c++",
+                    "-I/opt/local/include/gcc13/c++/x86_64-apple-darwin21"
+                ]
+            }
+        }
+    }
+}

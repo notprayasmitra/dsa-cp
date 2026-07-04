@@ -1,0 +1,15 @@
+FastOlympicCoding
+
+{
+    "cpp_complete_enabled": false,
+    "close_sidebar": false,
+    "stress_time_limit_seconds": 4,
+    "run_settings": [
+        {
+            "name": "C++",
+            "extensions": ["cpp"],
+            "compile_cmd": "/opt/local/bin/g++-mp-13 -std=c++17 -O2 \"{source_file}\" -o \"{source_file_dir}/{file_name}\"",
+            "run_cmd": "\"{source_file_dir}/{file_name}\""
+        }
+    ]
+}

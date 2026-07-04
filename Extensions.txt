@@ -1,0 +1,4 @@
+Catppuccin color schemes
+CppFastOlympicCoding
+LSP-clangd
+Terminus
