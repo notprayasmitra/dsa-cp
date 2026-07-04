@@ -11,12 +11,1007 @@
 			"file": "/Users/krrish/DSA & CP/solution.cpp",
 			"settings":
 			{
-				"buffer_size": 115,
+				"buffer_size": 462,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			},
 			"undo_stack":
 			[
+				[
+					44,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAAzgEAAAAAAABzAAAAI2luY2x1ZGUgPGJpdHMvc3RkYysrLmg+CnVzaW5nIG5hbWVzcGFjZSBzdGQ7CgppbnQgbWFpbigpIHsKCXN0cmluZyBzOwoJY2luID4+IHM7Cgljb3V0IDw8ICJIZWxsbyAiIDw8IHMgPDwgZW5kbDsKfQ",
+					"AQAAAAAAAAABAAAAAAAAAAAAAABzAAAAAAAAAAAAAAAAAPC/"
+				]
 			]
+		},
+		{
+			"contents": "\n",
+			"settings":
+			{
+				"buffer_size": 1,
+				"line_ending": "Unix",
+				"name": "solution.cpp -run",
+				"read_only": true,
+				"scratch": true
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"test_manager",
+					{
+						"action": "make_opd",
+						"build_sys": "source.c++",
+						"clr_tests": false,
+						"code_view_id": 31,
+						"run_file": "/Users/krrish/DSA & CP/solution.cpp",
+						"sync_out": true,
+						"use_debugger": false
+					},
+					"AQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					4,
+					1,
+					"test_manager",
+					{
+						"action": "insert_opd_input",
+						"text": ""
+					},
+					"AQAAAAEAAAAAAAAAAQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"insert",
+					{
+						"characters": "2"
+					},
+					"AQAAAAEAAAAAAAAAAgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					8,
+					1,
+					"insert",
+					{
+						"characters": "3"
+					},
+					"AQAAAAIAAAAAAAAAAwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAgAAAAAAAAACAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"test_manager",
+					{
+						"action": "insert_line"
+					},
+					"AQAAAAMAAAAAAAAABAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAwAAAAAAAAADAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					1,
+					"test_manager",
+					{
+						"action": "insert_opd_out",
+						"text": "H"
+					},
+					"AQAAAAQAAAAAAAAABQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					14,
+					1,
+					"test_manager",
+					{
+						"action": "insert_opd_out",
+						"text": "ello 23\n"
+					},
+					"AQAAAAUAAAAAAAAADQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABQAAAAAAAAAFAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					16,
+					1,
+					"test_manager",
+					{
+						"action": "replace",
+						"region":
+						[
+							1,
+							13
+						],
+						"text": "23\n\nHello 23\n\n"
+					},
+					"AQAAAAEAAAAAAAAADwAAAAAAAAAMAAAAMjMKSGVsbG8gMjMK",
+					"AQAAAAAAAAABAAAADQAAAAAAAAANAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					19,
+					1,
+					"test_manager",
+					{
+						"action": "delete_test",
+						"id": 0
+					},
+					"AQAAAAEAAAAAAAAAAQAAAAAAAAAOAAAAMjMKCkhlbGxvIDIzCgo",
+					"AQAAAAAAAAABAAAADwAAAAAAAAAPAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					24,
+					1,
+					"test_manager",
+					{
+						"action": "make_opd",
+						"build_sys": "source.c++",
+						"clr_tests": false,
+						"code_view_id": 31,
+						"run_file": "/Users/krrish/DSA & CP/solution.cpp",
+						"sync_out": true,
+						"use_debugger": false
+					},
+					"AQAAAAAAAAAAAAAAAQAAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					27,
+					1,
+					"test_manager",
+					{
+						"action": "insert_opd_input",
+						"text": ""
+					},
+					"AQAAAAEAAAAAAAAAAQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					29,
+					1,
+					"test_manager",
+					{
+						"action": "insert_opd_out",
+						"text": "E"
+					},
+					"AQAAAAEAAAAAAAAAAgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					31,
+					1,
+					"test_manager",
+					{
+						"action": "insert_opd_out",
+						"text": "n"
+					},
+					"AQAAAAIAAAAAAAAAAwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAgAAAAAAAAACAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					33,
+					1,
+					"test_manager",
+					{
+						"action": "insert_opd_out",
+						"text": "t"
+					},
+					"AQAAAAMAAAAAAAAABAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAwAAAAAAAAADAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					35,
+					1,
+					"test_manager",
+					{
+						"action": "insert_opd_out",
+						"text": "e"
+					},
+					"AQAAAAQAAAAAAAAABQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					37,
+					1,
+					"test_manager",
+					{
+						"action": "insert_opd_out",
+						"text": "r"
+					},
+					"AQAAAAUAAAAAAAAABgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABQAAAAAAAAAFAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					39,
+					1,
+					"test_manager",
+					{
+						"action": "insert_opd_out",
+						"text": " "
+					},
+					"AQAAAAYAAAAAAAAABwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABgAAAAAAAAAGAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					41,
+					1,
+					"test_manager",
+					{
+						"action": "insert_opd_out",
+						"text": "y"
+					},
+					"AQAAAAcAAAAAAAAACAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABwAAAAAAAAAHAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					43,
+					1,
+					"test_manager",
+					{
+						"action": "insert_opd_out",
+						"text": "o"
+					},
+					"AQAAAAgAAAAAAAAACQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACAAAAAAAAAAIAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					45,
+					1,
+					"test_manager",
+					{
+						"action": "insert_opd_out",
+						"text": "u"
+					},
+					"AQAAAAkAAAAAAAAACgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACQAAAAAAAAAJAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					47,
+					1,
+					"test_manager",
+					{
+						"action": "insert_opd_out",
+						"text": "r"
+					},
+					"AQAAAAoAAAAAAAAACwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACgAAAAAAAAAKAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					49,
+					1,
+					"test_manager",
+					{
+						"action": "insert_opd_out",
+						"text": " "
+					},
+					"AQAAAAsAAAAAAAAADAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACwAAAAAAAAALAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					51,
+					1,
+					"test_manager",
+					{
+						"action": "insert_opd_out",
+						"text": "n"
+					},
+					"AQAAAAwAAAAAAAAADQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADAAAAAAAAAAMAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					53,
+					1,
+					"test_manager",
+					{
+						"action": "insert_opd_out",
+						"text": "a"
+					},
+					"AQAAAA0AAAAAAAAADgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADQAAAAAAAAANAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					55,
+					1,
+					"test_manager",
+					{
+						"action": "insert_opd_out",
+						"text": "m"
+					},
+					"AQAAAA4AAAAAAAAADwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADgAAAAAAAAAOAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					57,
+					1,
+					"test_manager",
+					{
+						"action": "insert_opd_out",
+						"text": "e"
+					},
+					"AQAAAA8AAAAAAAAAEAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADwAAAAAAAAAPAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					59,
+					1,
+					"test_manager",
+					{
+						"action": "insert_opd_out",
+						"text": ":"
+					},
+					"AQAAABAAAAAAAAAAEQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					61,
+					1,
+					"test_manager",
+					{
+						"action": "insert_opd_out",
+						"text": " "
+					},
+					"AQAAABEAAAAAAAAAEgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEQAAAAAAAAARAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					64,
+					1,
+					"insert",
+					{
+						"characters": "P"
+					},
+					"AQAAABIAAAAAAAAAEwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEgAAAAAAAAASAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					66,
+					1,
+					"insert",
+					{
+						"characters": "r"
+					},
+					"AQAAABMAAAAAAAAAFAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEwAAAAAAAAATAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					68,
+					1,
+					"insert",
+					{
+						"characters": "a"
+					},
+					"AQAAABQAAAAAAAAAFQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFAAAAAAAAAAUAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					70,
+					1,
+					"insert",
+					{
+						"characters": "y"
+					},
+					"AQAAABUAAAAAAAAAFgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFQAAAAAAAAAVAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					72,
+					1,
+					"insert",
+					{
+						"characters": "a"
+					},
+					"AQAAABYAAAAAAAAAFwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFgAAAAAAAAAWAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					74,
+					1,
+					"insert",
+					{
+						"characters": "s"
+					},
+					"AQAAABcAAAAAAAAAGAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFwAAAAAAAAAXAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					76,
+					1,
+					"test_manager",
+					{
+						"action": "insert_line"
+					},
+					"AQAAABgAAAAAAAAAGQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGAAAAAAAAAAYAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					78,
+					1,
+					"test_manager",
+					{
+						"action": "insert_opd_out",
+						"text": "H"
+					},
+					"AQAAABkAAAAAAAAAGgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGQAAAAAAAAAZAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					80,
+					1,
+					"test_manager",
+					{
+						"action": "insert_opd_out",
+						"text": "o"
+					},
+					"AQAAABoAAAAAAAAAGwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGgAAAAAAAAAaAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					82,
+					1,
+					"test_manager",
+					{
+						"action": "insert_opd_out",
+						"text": "w"
+					},
+					"AQAAABsAAAAAAAAAHAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGwAAAAAAAAAbAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					84,
+					1,
+					"test_manager",
+					{
+						"action": "insert_opd_out",
+						"text": " "
+					},
+					"AQAAABwAAAAAAAAAHQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHAAAAAAAAAAcAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					86,
+					1,
+					"test_manager",
+					{
+						"action": "insert_opd_out",
+						"text": "m"
+					},
+					"AQAAAB0AAAAAAAAAHgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHQAAAAAAAAAdAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					88,
+					1,
+					"test_manager",
+					{
+						"action": "insert_opd_out",
+						"text": "a"
+					},
+					"AQAAAB4AAAAAAAAAHwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHgAAAAAAAAAeAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					90,
+					1,
+					"test_manager",
+					{
+						"action": "insert_opd_out",
+						"text": "n"
+					},
+					"AQAAAB8AAAAAAAAAIAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHwAAAAAAAAAfAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					92,
+					1,
+					"test_manager",
+					{
+						"action": "insert_opd_out",
+						"text": "y"
+					},
+					"AQAAACAAAAAAAAAAIQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAIAAAAAAAAAAgAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					94,
+					1,
+					"test_manager",
+					{
+						"action": "insert_opd_out",
+						"text": " "
+					},
+					"AQAAACEAAAAAAAAAIgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAIQAAAAAAAAAhAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					96,
+					1,
+					"test_manager",
+					{
+						"action": "insert_opd_out",
+						"text": "D"
+					},
+					"AQAAACIAAAAAAAAAIwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAIgAAAAAAAAAiAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					98,
+					1,
+					"test_manager",
+					{
+						"action": "insert_opd_out",
+						"text": "S"
+					},
+					"AQAAACMAAAAAAAAAJAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAIwAAAAAAAAAjAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					100,
+					1,
+					"test_manager",
+					{
+						"action": "insert_opd_out",
+						"text": "A"
+					},
+					"AQAAACQAAAAAAAAAJQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJAAAAAAAAAAkAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					102,
+					1,
+					"test_manager",
+					{
+						"action": "insert_opd_out",
+						"text": " "
+					},
+					"AQAAACUAAAAAAAAAJgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJQAAAAAAAAAlAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					104,
+					1,
+					"test_manager",
+					{
+						"action": "insert_opd_out",
+						"text": "p"
+					},
+					"AQAAACYAAAAAAAAAJwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJgAAAAAAAAAmAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					106,
+					1,
+					"test_manager",
+					{
+						"action": "insert_opd_out",
+						"text": "r"
+					},
+					"AQAAACcAAAAAAAAAKAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJwAAAAAAAAAnAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					108,
+					1,
+					"test_manager",
+					{
+						"action": "insert_opd_out",
+						"text": "o"
+					},
+					"AQAAACgAAAAAAAAAKQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKAAAAAAAAAAoAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					110,
+					1,
+					"test_manager",
+					{
+						"action": "insert_opd_out",
+						"text": "b"
+					},
+					"AQAAACkAAAAAAAAAKgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKQAAAAAAAAApAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					112,
+					1,
+					"test_manager",
+					{
+						"action": "insert_opd_out",
+						"text": "l"
+					},
+					"AQAAACoAAAAAAAAAKwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKgAAAAAAAAAqAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					114,
+					1,
+					"test_manager",
+					{
+						"action": "insert_opd_out",
+						"text": "e"
+					},
+					"AQAAACsAAAAAAAAALAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKwAAAAAAAAArAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					116,
+					1,
+					"test_manager",
+					{
+						"action": "insert_opd_out",
+						"text": "m"
+					},
+					"AQAAACwAAAAAAAAALQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALAAAAAAAAAAsAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					118,
+					1,
+					"test_manager",
+					{
+						"action": "insert_opd_out",
+						"text": "s"
+					},
+					"AQAAAC0AAAAAAAAALgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALQAAAAAAAAAtAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					120,
+					1,
+					"test_manager",
+					{
+						"action": "insert_opd_out",
+						"text": " "
+					},
+					"AQAAAC4AAAAAAAAALwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALgAAAAAAAAAuAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					122,
+					1,
+					"test_manager",
+					{
+						"action": "insert_opd_out",
+						"text": "h"
+					},
+					"AQAAAC8AAAAAAAAAMAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALwAAAAAAAAAvAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					124,
+					1,
+					"test_manager",
+					{
+						"action": "insert_opd_out",
+						"text": "a"
+					},
+					"AQAAADAAAAAAAAAAMQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAMAAAAAAAAAAwAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					126,
+					1,
+					"test_manager",
+					{
+						"action": "insert_opd_out",
+						"text": "v"
+					},
+					"AQAAADEAAAAAAAAAMgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAMQAAAAAAAAAxAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					128,
+					1,
+					"test_manager",
+					{
+						"action": "insert_opd_out",
+						"text": "e"
+					},
+					"AQAAADIAAAAAAAAAMwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAMgAAAAAAAAAyAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					130,
+					1,
+					"test_manager",
+					{
+						"action": "insert_opd_out",
+						"text": " "
+					},
+					"AQAAADMAAAAAAAAANAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAMwAAAAAAAAAzAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					132,
+					1,
+					"test_manager",
+					{
+						"action": "insert_opd_out",
+						"text": "y"
+					},
+					"AQAAADQAAAAAAAAANQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANAAAAAAAAAA0AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					134,
+					1,
+					"test_manager",
+					{
+						"action": "insert_opd_out",
+						"text": "o"
+					},
+					"AQAAADUAAAAAAAAANgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANQAAAAAAAAA1AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					136,
+					1,
+					"test_manager",
+					{
+						"action": "insert_opd_out",
+						"text": "u"
+					},
+					"AQAAADYAAAAAAAAANwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANgAAAAAAAAA2AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					138,
+					1,
+					"test_manager",
+					{
+						"action": "insert_opd_out",
+						"text": " "
+					},
+					"AQAAADcAAAAAAAAAOAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANwAAAAAAAAA3AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					140,
+					1,
+					"test_manager",
+					{
+						"action": "insert_opd_out",
+						"text": "s"
+					},
+					"AQAAADgAAAAAAAAAOQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAOAAAAAAAAAA4AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					142,
+					1,
+					"test_manager",
+					{
+						"action": "insert_opd_out",
+						"text": "o"
+					},
+					"AQAAADkAAAAAAAAAOgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAOQAAAAAAAAA5AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					144,
+					1,
+					"test_manager",
+					{
+						"action": "insert_opd_out",
+						"text": "l"
+					},
+					"AQAAADoAAAAAAAAAOwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAOgAAAAAAAAA6AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					146,
+					1,
+					"test_manager",
+					{
+						"action": "insert_opd_out",
+						"text": "v"
+					},
+					"AQAAADsAAAAAAAAAPAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAOwAAAAAAAAA7AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					148,
+					1,
+					"test_manager",
+					{
+						"action": "insert_opd_out",
+						"text": "e"
+					},
+					"AQAAADwAAAAAAAAAPQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAPAAAAAAAAAA8AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					150,
+					1,
+					"test_manager",
+					{
+						"action": "insert_opd_out",
+						"text": "d"
+					},
+					"AQAAAD0AAAAAAAAAPgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAPQAAAAAAAAA9AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					152,
+					1,
+					"test_manager",
+					{
+						"action": "insert_opd_out",
+						"text": " "
+					},
+					"AQAAAD4AAAAAAAAAPwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAPgAAAAAAAAA+AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					154,
+					1,
+					"test_manager",
+					{
+						"action": "insert_opd_out",
+						"text": "t"
+					},
+					"AQAAAD8AAAAAAAAAQAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAPwAAAAAAAAA/AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					156,
+					1,
+					"test_manager",
+					{
+						"action": "insert_opd_out",
+						"text": "o"
+					},
+					"AQAAAEAAAAAAAAAAQQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					158,
+					1,
+					"test_manager",
+					{
+						"action": "insert_opd_out",
+						"text": "d"
+					},
+					"AQAAAEEAAAAAAAAAQgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQQAAAAAAAABBAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					160,
+					1,
+					"test_manager",
+					{
+						"action": "insert_opd_out",
+						"text": "a"
+					},
+					"AQAAAEIAAAAAAAAAQwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQgAAAAAAAABCAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					162,
+					1,
+					"test_manager",
+					{
+						"action": "insert_opd_out",
+						"text": "y"
+					},
+					"AQAAAEMAAAAAAAAARAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQwAAAAAAAABDAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					164,
+					1,
+					"test_manager",
+					{
+						"action": "insert_opd_out",
+						"text": "?"
+					},
+					"AQAAAEQAAAAAAAAARQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARAAAAAAAAABEAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					166,
+					1,
+					"test_manager",
+					{
+						"action": "insert_opd_out",
+						"text": " "
+					},
+					"AQAAAEUAAAAAAAAARgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARQAAAAAAAABFAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					168,
+					1,
+					"insert",
+					{
+						"characters": "1"
+					},
+					"AQAAAEYAAAAAAAAARwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARgAAAAAAAABGAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					170,
+					1,
+					"insert",
+					{
+						"characters": "2"
+					},
+					"AQAAAEcAAAAAAAAASAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARwAAAAAAAABHAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					172,
+					1,
+					"test_manager",
+					{
+						"action": "insert_line"
+					},
+					"AQAAAEgAAAAAAAAASQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASAAAAAAAAABIAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					174,
+					1,
+					"test_manager",
+					{
+						"action": "insert_opd_out",
+						"text": "\n"
+					},
+					"AQAAAEkAAAAAAAAASgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASQAAAAAAAABJAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					176,
+					1,
+					"test_manager",
+					{
+						"action": "insert_opd_out",
+						"text": "--- Result ---\nKeep grinding, Prayas! Adding 12 problems to the books.\n"
+					},
+					"AQAAAEoAAAAAAAAAkQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASgAAAAAAAABKAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					178,
+					1,
+					"test_manager",
+					{
+						"action": "replace",
+						"region":
+						[
+							1,
+							145
+						],
+						"text": "Prayas\n12\n\nEnter your name: How many DSA problems have you solved today? \n--- Result ---\nKeep grinding, Prayas! Adding 12 problems to the books.\n\n"
+					},
+					"AQAAAAEAAAAAAAAAkwAAAAAAAACQAAAARW50ZXIgeW91ciBuYW1lOiBQcmF5YXMKSG93IG1hbnkgRFNBIHByb2JsZW1zIGhhdmUgeW91IHNvbHZlZCB0b2RheT8gMTIKCi0tLSBSZXN1bHQgLS0tCktlZXAgZ3JpbmRpbmcsIFByYXlhcyEgQWRkaW5nIDEyIHByb2JsZW1zIHRvIHRoZSBib29rcy4K",
+					"AQAAAAAAAAABAAAAkQAAAAAAAACRAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					181,
+					1,
+					"test_manager",
+					{
+						"action": "delete_test",
+						"id": 0
+					},
+					"AQAAAAEAAAAAAAAAAQAAAAAAAACSAAAAUHJheWFzCjEyCgpFbnRlciB5b3VyIG5hbWU6IEhvdyBtYW55IERTQSBwcm9ibGVtcyBoYXZlIHlvdSBzb2x2ZWQgdG9kYXk/IAotLS0gUmVzdWx0IC0tLQpLZWVwIGdyaW5kaW5nLCBQcmF5YXMhIEFkZGluZyAxMiBwcm9ibGVtcyB0byB0aGUgYm9va3MuCgo",
+					"AQAAAAAAAAABAAAAkwAAAAAAAACTAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "/Users/krrish/DSA & CP/inputf.in",
+			"settings":
+			{
+				"buffer_size": 5,
+				"line_ending": "Unix"
+			}
 		},
 		{
 			"file": "/Users/krrish/DSA & CP/outputf.in",
@@ -32,8 +1027,16 @@
 					1,
 					"revert",
 					null,
-					"AgAAAAAAAAAAAAAAAAAAAAAAAAAMAAAASGVsbG8gUmFqaXYKAAAAAAAAAAAMAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+					"AwAAAAAAAAAAAAAAAAAAAAAAAAAMAAAASGVsbG8gUmFqaXYKAAAAAAAAAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					3,
+					1,
+					"revert",
+					null,
+					"AwAAAAAAAAAAAAAAAAAAAAAAAAALAAAASGVsbG8gUmFqaXYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACwAAAAAAAAALAAAAAAAAAAAAAAAAAPC/"
 				]
 			]
 		}
@@ -49,6 +1052,18 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"run",
+				"FastOlympicCoding: Run"
+			],
+			[
+				"terminu",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"open ",
+				"FastOlympicCoding: Open Settings"
+			],
 			[
 				"fast",
 				"FastOlympicCoding: Run"
@@ -102,11 +1117,12 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/krrish/DSA & CP",
-		"/Users/krrish/DSA & CP/Configuration"
+		"/Users/krrish/DSA & CP"
 	],
 	"file_history":
 	[
+		"/Users/krrish/DSA & CP/Configuration/LSP-Clangd.txt",
+		"/Users/krrish/DSA & CP/Configuration/FastOlympicCoding.txt",
 		"/Users/krrish/DSA & CP/outputf.in",
 		"/Users/krrish/DSA & CP/inputf.in",
 		"/Users/krrish/DSA & CP/Extensions.txt",
@@ -158,18 +1174,18 @@
 					"buffer": 0,
 					"file": "/Users/krrish/DSA & CP/solution.cpp",
 					"selected": true,
-					"semi_transient": true,
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 115,
+						"buffer_size": 462,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								115,
-								115
+								462,
+								462
 							]
 						],
 						"settings":
@@ -191,15 +1207,78 @@
 		{
 			"sheets":
 			[
+				{
+					"buffer": 1,
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1,
+								1
+							]
+						],
+						"settings":
+						{
+							"delete_forb": true,
+							"edit_mode": false,
+							"fold_buttons": false,
+							"line_numbers": false,
+							"syntax": "Packages/CppFastOlympicCoding/TestSyntax.tmLanguage",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
 			]
 		},
 		{
 			"sheets":
 			[
 				{
-					"buffer": 1,
-					"file": "/Users/krrish/DSA & CP/outputf.in",
+					"buffer": 2,
+					"file": "/Users/krrish/DSA & CP/inputf.in",
 					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/krrish/DSA & CP/outputf.in",
 					"semi_transient": false,
 					"settings":
 					{
@@ -222,7 +1301,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"stack_multiselect": false,
 					"type": "text"
 				}
@@ -274,6 +1353,13 @@
 		]
 	},
 	"menu_visible": true,
+	"output.Terminus":
+	{
+		"height": 112.0,
+		"history":
+		[
+		]
+	},
 	"output.exec":
 	{
 		"height": 96.0,
@@ -322,7 +1408,7 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 0,
+	"selected_group": 1,
 	"settings":
 	{
 		"last_automatic_layout":

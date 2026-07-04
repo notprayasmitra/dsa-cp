@@ -1,8 +1,19 @@
-#include <bits/stdc++.h>
-using namespace std;
+#include <iostream>
+#include <string>
 
 int main() {
-	string s;
-	cin >> s;
-	cout << "Hello " << s << endl;
+    std::string name;
+    int problems_solved;
+
+    std::cout << "Enter your name: ";
+    std::cin >> name;
+
+    std::cout << "How many DSA problems have you solved today? ";
+    std::cin >> problems_solved;
+
+    std::cout << "\n--- Result ---" << std::endl;
+    std::cout << "Keep grinding, " << name << "! Adding " << problems_solved 
+              << " problems to the books." << std::endl;
+
+    return 0;
 }
