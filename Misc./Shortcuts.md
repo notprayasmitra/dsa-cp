@@ -1,10 +1,10 @@
 macOS Shortcuts
 
-Compile & Run all tests	- Cmd + B	Ctrl + Alt + B
-Add a new test case	- Ctrl + Enter	Ctrl + Enter
-Kill running process - Cmd + C	Ctrl + X
-Delete selected test case - Ctrl + D	Ctrl + D
-Open / Close right test panel - Cmd + K, Cmd + P	Ctrl + K, Ctrl + P
+Compile & Run all tests	- Cmd + B
+Add a new test case	- Ctrl + Enter
+Kill running process - Cmd + C
+Delete selected test case - Ctrl + D
+Open / Close right test panel - Cmd + K, Cmd + P
 
 Windows / Linux Shortcut
 
