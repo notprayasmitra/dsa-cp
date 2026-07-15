@@ -11,12 +11,9 @@
 			"file": "solution.cpp",
 			"settings":
 			{
-				"buffer_size": 115,
+				"buffer_size": 462,
 				"line_ending": "Unix"
-			},
-			"undo_stack":
-			[
-			]
+			}
 		},
 		{
 			"file": "outputf.in",
@@ -32,8 +29,8 @@
 					1,
 					"revert",
 					null,
-					"AgAAAAAAAAAAAAAAAAAAAAAAAAAMAAAASGVsbG8gUmFqaXYKAAAAAAAAAAAMAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+					"BQAAAAAAAAAAAAAAAAAAAAAAAAAMAAAASGVsbG8gUmFqaXYKAAAAAAAAAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
 				]
 			]
 		}
@@ -100,11 +97,6 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
-	"expanded_folders":
-	[
-		"/Users/krrish/DSA & CP",
-		"/Users/krrish/DSA & CP/Configuration"
-	],
 	"file_history":
 	[
 		"/Users/krrish/DSA & CP/outputf.in",
@@ -161,22 +153,22 @@
 					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 115,
+						"buffer_size": 462,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								115,
-								115
+								0,
+								0
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/C++/C++.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": false
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
