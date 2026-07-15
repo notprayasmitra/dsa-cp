@@ -1,3 +1,7 @@
 # Ignore all builds folders anywhere
 builds/
 **/builds/
+
+# Ignore all tests folders anywhere
+tests/
+**/tests/

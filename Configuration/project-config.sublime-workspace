@@ -23,17 +23,9 @@
 					"paste",
 					null,
 					"AQAAAAAAAAAAAAAAzgEAAAAAAABzAAAAI2luY2x1ZGUgPGJpdHMvc3RkYysrLmg+CnVzaW5nIG5hbWVzcGFjZSBzdGQ7CgppbnQgbWFpbigpIHsKCXN0cmluZyBzOwoJY2luID4+IHM7Cgljb3V0IDw8ICJIZWxsbyAiIDw8IHMgPDwgZW5kbDsKfQ",
-					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAHMAAAAAAAAAAAAAAAAA8L8"
+					"BwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAABzAAAAAAAAAAAAAAAAAPC/"
 				]
 			]
-		},
-		{
-			"file": "/Users/krrish/DSA & CP/Extensions.txt",
-			"settings":
-			{
-				"buffer_size": 65,
-				"line_ending": "Unix"
-			}
 		},
 		{
 			"file": "/Users/krrish/DSA & CP/inputf.in",
@@ -47,7 +39,7 @@
 			"file": "/Users/krrish/DSA & CP/outputf.in",
 			"settings":
 			{
-				"buffer_size": 12,
+				"buffer_size": 132,
 				"line_ending": "Unix"
 			},
 			"undo_stack":
@@ -58,15 +50,39 @@
 					"revert",
 					null,
 					"AwAAAAAAAAAAAAAAAAAAAAAAAAAMAAAASGVsbG8gUmFqaXYKAAAAAAAAAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA",
-					"BgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvw"
+					"CAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
 				],
 				[
 					3,
 					1,
 					"revert",
 					null,
-					"BwAAAAAAAAAAAAAAAAAAAAAAAAALAAAASGVsbG8gUmFqaXYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA",
-					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAALAAAAAAAAAAsAAAAAAAAAAAAAAAAA8L8"
+					"CAAAAAAAAAAAAAAAAAAAAAAAAAALAAAASGVsbG8gUmFqaXYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA",
+					"BwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAACwAAAAAAAAALAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					1,
+					1,
+					"revert",
+					null,
+					"AwAAAAAAAAAAAAAAAAAAAAAAAAAMAAAASGVsbG8gUmFqaXYKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIQAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					3,
+					1,
+					"revert",
+					null,
+					"AgAAAAAAAAAAAAAAAAAAAAAAAACEAAAARW50ZXIgeW91ciBuYW1lOiBIb3cgbWFueSBEU0EgcHJvYmxlbXMgaGF2ZSB5b3Ugc29sdmVkIHRvZGF5PyAKLS0tIFJlc3VsdCAtLS0KS2VlcCBncmluZGluZywgUmFqaXYhIEFkZGluZyAxIHByb2JsZW1zIHRvIHRoZSBib29rcy4KAAAAAAAAAACEAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					4,
+					1,
+					"revert",
+					null,
+					"BAAAAAAAAAAAAAAAAAAAAAAAAACEAAAARW50ZXIgeW91ciBuYW1lOiBIb3cgbWFueSBEU0EgcHJvYmxlbXMgaGF2ZSB5b3Ugc29sdmVkIHRvZGF5PyAKLS0tIFJlc3VsdCAtLS0KS2VlcCBncmluZGluZywgUmFqaXYhIEFkZGluZyAxIHByb2JsZW1zIHRvIHRoZSBib29rcy4KAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIQAAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
 				]
 			]
 		}
@@ -83,6 +99,10 @@
 		"selected_items":
 		[
 			[
+				"fast",
+				"FastOlympicCoding: Run"
+			],
+			[
 				"run",
 				"FastOlympicCoding: Run"
 			],
@@ -93,10 +113,6 @@
 			[
 				"open ",
 				"FastOlympicCoding: Open Settings"
-			],
-			[
-				"fast",
-				"FastOlympicCoding: Run"
 			],
 			[
 				"oly",
@@ -148,10 +164,13 @@
 	"expanded_folders":
 	[
 		"/Users/krrish/DSA & CP",
-		"/Users/krrish/DSA & CP/Configuration"
+		"/Users/krrish/DSA & CP/C++ A2Z"
 	],
 	"file_history":
 	[
+		"/Users/krrish/DSA & CP/Misc./Shortcuts.md",
+		"/Users/krrish/DSA & CP/Shortcuts.md",
+		"/Users/krrish/DSA & CP/README.md",
 		"/Users/krrish/DSA & CP/Configuration/LSP-Clangd.txt",
 		"/Users/krrish/DSA & CP/Configuration/FastOlympicCoding.txt",
 		"/Users/krrish/DSA & CP/outputf.in",
@@ -238,43 +257,13 @@
 		{
 			"sheets":
 			[
-				{
-					"buffer": 1,
-					"file": "/Users/krrish/DSA & CP/Extensions.txt",
-					"selected": true,
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 65,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"stack_multiselect": false,
-					"type": "text"
-				}
 			]
 		},
 		{
 			"sheets":
 			[
 				{
-					"buffer": 2,
+					"buffer": 1,
 					"file": "/Users/krrish/DSA & CP/inputf.in",
 					"selected": true,
 					"semi_transient": false,
@@ -304,12 +293,12 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
+					"buffer": 2,
 					"file": "/Users/krrish/DSA & CP/outputf.in",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 12,
+						"buffer_size": 132,
 						"regions":
 						{
 						},
@@ -401,7 +390,7 @@
 		[
 		]
 	},
-	"pinned_build_system": "Packages/User/C++17.sublime-build",
+	"pinned_build_system": "",
 	"project": "project-config.sublime-project",
 	"replace":
 	{
@@ -435,7 +424,7 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 1,
+	"selected_group": 0,
 	"settings":
 	{
 		"last_automatic_layout":
@@ -464,7 +453,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 251.0,
+	"side_bar_width": 250.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
