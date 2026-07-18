@@ -23,7 +23,97 @@
 					"paste",
 					null,
 					"AQAAAAAAAAAAAAAAzgEAAAAAAABzAAAAI2luY2x1ZGUgPGJpdHMvc3RkYysrLmg+CnVzaW5nIG5hbWVzcGFjZSBzdGQ7CgppbnQgbWFpbigpIHsKCXN0cmluZyBzOwoJY2luID4+IHM7Cgljb3V0IDw8ICJIZWxsbyAiIDw8IHMgPDwgZW5kbDsKfQ",
-					"BwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAABzAAAAAAAAAAAAAAAAAPC/"
+					"CAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAHMAAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		},
+		{
+			"file": "/Users/krrish/DSA & CP/C++ A2Z/Basics/04-assignment-operators.cpp",
+			"settings":
+			{
+				"buffer_size": 794,
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+			]
+		},
+		{
+			"contents": "\n\n5\n8\n5\n15\n5\n2\n\n",
+			"settings":
+			{
+				"buffer_size": 16,
+				"line_ending": "Unix",
+				"name": "04-assignment-operators.cpp -run",
+				"read_only": true,
+				"scratch": true
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"test_manager",
+					{
+						"action": "make_opd",
+						"build_sys": "source.c++",
+						"clr_tests": false,
+						"code_view_id": 116,
+						"run_file": "/Users/krrish/DSA & CP/C++ A2Z/Basics/04-assignment-operators.cpp",
+						"sync_out": true,
+						"use_debugger": false
+					},
+					"AQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					4,
+					1,
+					"test_manager",
+					{
+						"action": "insert_opd_input",
+						"text": ""
+					},
+					"AQAAAAEAAAAAAAAAAQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"test_manager",
+					{
+						"action": "insert_opd_out",
+						"text": "5"
+					},
+					"AQAAAAEAAAAAAAAAAgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					8,
+					1,
+					"test_manager",
+					{
+						"action": "insert_opd_out",
+						"text": "\n8\n5\n15\n5\n2\n"
+					},
+					"AQAAAAIAAAAAAAAADgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAgAAAAAAAAACAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"test_manager",
+					{
+						"action": "replace",
+						"region":
+						[
+							1,
+							14
+						],
+						"text": "\n5\n8\n5\n15\n5\n2\n\n"
+					},
+					"AQAAAAEAAAAAAAAAEAAAAAAAAAANAAAANQo4CjUKMTUKNQoyCg",
+					"AQAAAAAAAAABAAAADgAAAAAAAAAOAAAAAAAAAAAAAAAAAPC/"
 				]
 			]
 		},
@@ -50,7 +140,7 @@
 					"revert",
 					null,
 					"AwAAAAAAAAAAAAAAAAAAAAAAAAAMAAAASGVsbG8gUmFqaXYKAAAAAAAAAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA",
-					"CAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+					"CQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvw"
 				],
 				[
 					3,
@@ -58,7 +148,7 @@
 					"revert",
 					null,
 					"CAAAAAAAAAAAAAAAAAAAAAAAAAALAAAASGVsbG8gUmFqaXYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA",
-					"BwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAACwAAAAAAAAALAAAAAAAAAAAAAAAAAPC/"
+					"CAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAALAAAAAAAAAAsAAAAAAAAAAAAAAAAA8L8"
 				],
 				[
 					1,
@@ -66,7 +156,7 @@
 					"revert",
 					null,
 					"AwAAAAAAAAAAAAAAAAAAAAAAAAAMAAAASGVsbG8gUmFqaXYKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIQAAAAAAAAAAAAAAA",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvw"
 				],
 				[
 					3,
@@ -74,22 +164,50 @@
 					"revert",
 					null,
 					"AgAAAAAAAAAAAAAAAAAAAAAAAACEAAAARW50ZXIgeW91ciBuYW1lOiBIb3cgbWFueSBEU0EgcHJvYmxlbXMgaGF2ZSB5b3Ugc29sdmVkIHRvZGF5PyAKLS0tIFJlc3VsdCAtLS0KS2VlcCBncmluZGluZywgUmFqaXYhIEFkZGluZyAxIHByb2JsZW1zIHRvIHRoZSBib29rcy4KAAAAAAAAAACEAAAAAAAAAAAAAAA",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvw"
 				],
 				[
 					4,
 					1,
 					"revert",
 					null,
-					"BAAAAAAAAAAAAAAAAAAAAAAAAACEAAAARW50ZXIgeW91ciBuYW1lOiBIb3cgbWFueSBEU0EgcHJvYmxlbXMgaGF2ZSB5b3Ugc29sdmVkIHRvZGF5PyAKLS0tIFJlc3VsdCAtLS0KS2VlcCBncmluZGluZywgUmFqaXYhIEFkZGluZyAxIHByb2JsZW1zIHRvIHRoZSBib29rcy4KAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIQAAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAAAAAAA",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+					"BQAAAAAAAAAAAAAAAAAAAAAAAACEAAAARW50ZXIgeW91ciBuYW1lOiBIb3cgbWFueSBEU0EgcHJvYmxlbXMgaGF2ZSB5b3Ugc29sdmVkIHRvZGF5PyAKLS0tIFJlc3VsdCAtLS0KS2VlcCBncmluZGluZywgUmFqaXYhIEFkZGluZyAxIHByb2JsZW1zIHRvIHRoZSBib29rcy4KAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIQAAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					4,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAAAAAAAAAAAAAAAAAAAAACEAAAARW50ZXIgeW91ciBuYW1lOiBIb3cgbWFueSBEU0EgcHJvYmxlbXMgaGF2ZSB5b3Ugc29sdmVkIHRvZGF5PyAKLS0tIFJlc3VsdCAtLS0KS2VlcCBncmluZGluZywgUmFqaXYhIEFkZGluZyAxIHByb2JsZW1zIHRvIHRoZSBib29rcy4K",
+					"AQAAAAAAAAABAAAAAAAAAAAAAACEAAAAAAAAAAAAAAAAAPC/"
 				]
 			]
 		}
 	],
-	"build_system": "",
+	"build_system": "Packages/User/C++17.sublime-build",
 	"build_system_choices":
 	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/C++17.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/C++17.sublime-build",
+				""
+			]
+		]
 	],
 	"build_varint": "",
 	"command_palette":
@@ -98,6 +216,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"olyp",
+				"FastOlympicCoding: Run"
+			],
 			[
 				"fast",
 				"FastOlympicCoding: Run"
@@ -169,6 +291,7 @@
 	"file_history":
 	[
 		"/Users/krrish/DSA & CP/Misc./Shortcuts.md",
+		"/Users/krrish/DSA & CP/.gitignore",
 		"/Users/krrish/DSA & CP/Shortcuts.md",
 		"/Users/krrish/DSA & CP/README.md",
 		"/Users/krrish/DSA & CP/Configuration/LSP-Clangd.txt",
@@ -223,7 +346,6 @@
 				{
 					"buffer": 0,
 					"file": "/Users/krrish/DSA & CP/solution.cpp",
-					"selected": true,
 					"semi_transient": false,
 					"settings":
 					{
@@ -248,6 +370,38 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/krrish/DSA & CP/C++ A2Z/Basics/04-assignment-operators.cpp",
+					"selected": true,
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 794,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
 					"stack_index": 0,
 					"stack_multiselect": false,
 					"type": "text"
@@ -257,13 +411,47 @@
 		{
 			"sheets":
 			[
+				{
+					"buffer": 2,
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								16,
+								16
+							]
+						],
+						"settings":
+						{
+							"delete_forb": true,
+							"edit_mode": false,
+							"fold_buttons": false,
+							"line_numbers": false,
+							"syntax": "Packages/CppFastOlympicCoding/TestSyntax.tmLanguage",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
 			]
 		},
 		{
 			"sheets":
 			[
 				{
-					"buffer": 1,
+					"buffer": 3,
 					"file": "/Users/krrish/DSA & CP/inputf.in",
 					"selected": true,
 					"semi_transient": false,
@@ -293,7 +481,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
+					"buffer": 4,
 					"file": "/Users/krrish/DSA & CP/outputf.in",
 					"semi_transient": false,
 					"settings":
@@ -305,8 +493,8 @@
 						"selection":
 						[
 							[
-								0,
-								0
+								132,
+								132
 							]
 						],
 						"settings":
@@ -358,7 +546,7 @@
 		"cols":
 		[
 			0.0,
-			0.626344005434,
+			0.607035809164,
 			1.0
 		],
 		"rows":
@@ -424,7 +612,7 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 0,
+	"selected_group": 1,
 	"settings":
 	{
 		"last_automatic_layout":
@@ -453,7 +641,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 250.0,
+	"side_bar_width": 237.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
